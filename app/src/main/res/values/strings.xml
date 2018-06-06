@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Scoreboard</string>
+    <string name="app_name">Simple Scoreboard</string>
     <string name="action_settings">Settings</string>
     <string name="top_score">0</string>
     <string name="bottom_score">1</string>
