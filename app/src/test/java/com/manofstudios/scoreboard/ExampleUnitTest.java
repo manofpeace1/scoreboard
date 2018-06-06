@@ -1,4 +1,4 @@
-package com.manofpeace.scoreboard;
+package com.manofstudios.scoreboard;
 
 import org.junit.Test;
 

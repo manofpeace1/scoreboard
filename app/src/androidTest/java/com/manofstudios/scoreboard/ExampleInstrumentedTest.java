@@ -1,4 +1,4 @@
-package com.manofpeace.scoreboard;
+package com.manofstudios.scoreboard;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
